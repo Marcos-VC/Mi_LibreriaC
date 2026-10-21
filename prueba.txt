@@ -1,0 +1,20 @@
+1. Primera línea de prueba para la librería en C.
+2. Segunda línea con algo más de texto para verificar el flujo.
+3. Tercera línea corta.
+4. Cuarta línea: el comando head debería parar aquí si N es 4.
+5. Quinta línea para probar el punto medio de la lectura.
+6. Sexta línea con caracteres variados: abcdefghijklmnopqrstuvwxyz 0123456789.
+7. Séptima línea.
+8. Octava línea para comprobar flujos estándar de datos en UNIX.
+9. Novena línea.
+10. Décima línea: si ejecutas head 10, esta será la última en imprimirse.
+11. Undécima línea de control.
+12. Duodécima línea de prueba.
+13. Decimotercera línea.
+14. Decimocuarta línea.
+15. Decimoquinta línea.
+16. Decimosexta línea: si pruebas tail con N=5, la lectura debe empezar en esta línea.
+17. Decimoséptima línea.
+18. Decimoctava línea.
+19. Decimonovena línea.
+20. Vigésima línea: el final del archivo de prueba.
