@@ -3,10 +3,6 @@
 
 #define TAM_BUFFER 1024
 
-void holaMundo(void) {
-    printf("¡Hola Mundo desde liblibreria.a!\n");
-}
-
 int head(int N){
     
     char buffer[TAM_BUFFER];
