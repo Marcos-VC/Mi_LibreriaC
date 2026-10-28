@@ -10,6 +10,11 @@ int main (int argc,char *argv[]){
         head(n);
     }
 
+    else if (argc == 2 && strcmp(argv[1], "-head") == 0) {
+        int n = 10;
+        head(n);
+    }
+
     if (argc > 2 && strcmp(argv[1], "-tail") == 0) {
         int n = atoi(argv[2]);
         tail(n);
