@@ -25,3 +25,7 @@ int head(int N){
         return 0;
     }
 }
+
+int tail(int N){
+    return -1;
+}
